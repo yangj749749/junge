@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+*.log
+
+# VSCode
+.vscode/
+*.swp
+*.swo
+
+# C# / 编译输出
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# 图片（如果后续需要上传测试样图，可以删掉这一段）
+*.bmp
+*.png
+*.jpg
+*.jpeg
+*.raw
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
